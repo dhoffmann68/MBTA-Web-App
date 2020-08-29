@@ -1,0 +1,12 @@
+CS411 Assignment 2
+
+1. As a user I would like to enter the first page and be welcomed to a page where I could enter my email and password or 
+log in through my google account.
+
+2. As a user I should be able to save my previous T stop so I don't have to retype it. This would save time. 
+ 
+3. As a logged in user I should be able to go into a Profile page. From there I should be able to check what the weather is for a specific
+zip code for that day. I should also be able to enter in a T stop that I would like to see the next arrival times for. 
+
+4. As a logged in user I should be able to check how far it is to walk to the T stop that I need so I know what time to leave my house
+to get to the T stop in time for the next arrival. 
